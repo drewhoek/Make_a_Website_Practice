@@ -1,2 +1,2 @@
 # Make_a_Website_Practice
- Making a practrice website based on codecademy modules
+ Making a practice website based on codecademy modules
