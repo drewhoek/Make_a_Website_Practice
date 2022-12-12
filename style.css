@@ -1,0 +1,24 @@
+.header {
+    background-color: aliceblue;
+    color: blue;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    background-color: aliceblue;
+}
+img {
+    border: solid, 10px, black;
+}
+.footer {
+    font-size: 0.75rem;
+}
+
+.list1 {
+    background-image: url("https://www.pngarts.com/files/4/Beaver-PNG-Image.png");
+    background-size: 100px;
+    color: forestgreen;
+    background-position: 50%;
+}
